@@ -1,0 +1,22 @@
+* {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(31, 31, 31);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(103, 0, 172);
+    margin-top: 250px;
+}
+
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
